@@ -1,17 +1,31 @@
+# Videos
 *.mov
-*.ply
 *.off
+# Strange file from Mac OS
 .DS_Store
+# GIS data
 *.tiff
 *.mlp
-*.blend
-*.blend1
+# Information
 *.txt
 *.html
 *.txt
-*.obj
 *.json
-SEA_folder/
-*.3dm
-*.geojson
+# 3D models
 *.gh
+*.3dm
+*.stp
+*.obj
+*.blend
+*.blend1
+*.svg
+*.ply
+# Folders
+/Data
+/Results
+/Intermediary
+/Pictures_Results
+# Images
+*.pdf
+# Patterns (part of a filename)
+*Screenshot*
